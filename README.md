@@ -11,7 +11,7 @@ This project is a tool that can generate reports from data sources in multiple f
 
 
 # GitHub Repository Link:
-https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
+[https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}](https://github.com/pranjalekhande/Document-Creator-Using-Builder-and-Decorator-Pattern.git)
 
 ## Design Patterns
 
